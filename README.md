@@ -1,6 +1,6 @@
 # desafio-do-heroi
 
-Instruções para entrega
+Este projeto foi em resposta do desafio do Herói da DIO
 # 1️⃣ Desafio Classificador de nível de Herói
 
 **O Que deve ser utilizado**
@@ -31,4 +31,3 @@ Ao final deve se exibir uma mensagem:
  
  
  
-Bons estudos 😉
